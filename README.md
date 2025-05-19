@@ -1,3 +1,3 @@
 # EyeStims Website
 
-[EyeStims](https://eyestims.org/)
+[eyestims.org](https://eyestims.org/)
